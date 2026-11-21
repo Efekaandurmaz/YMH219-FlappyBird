@@ -1,10 +1,11 @@
-﻿namespace YMH219_FlappyBird
+﻿namespace FlappyBird;
+
+internal static class Program
 {
-    internal class Program
+    [STAThread]
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        ApplicationConfiguration.Initialize();
+        Application.Run(new GameForm());
     }
 }
