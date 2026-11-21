@@ -2,7 +2,7 @@
 
 Windows Forms ile geliştirilmiş Flappy Bird benzeri masaüstü oyunu. Nesne Tabanlı Programlama (YMH 219) dersi uygulama ödevidir.
 
-**Öğrenci:** [EFE KAAN DURMAZ] - [250541106]
+**Öğrenci:** EFE KAAN DURMAZ - 250541106
 
 ## Kullanılan Teknolojiler
 - C#
@@ -11,7 +11,7 @@ Windows Forms ile geliştirilmiş Flappy Bird benzeri masaüstü oyunu. Nesne Ta
 - Harici NuGet paketi yok
 
 ## Kurulum ve Çalıştırma
-1. Depoyu klonlayın: `git clone https://github.com/[Efekaandurmaz]/YMH219-FlappyBird.git`
+1. Depoyu klonlayın: `git clone https://github.com/Efekaandurmaz/YMH219-FlappyBird.git`
 2. `.slnx` dosyasını Visual Studio ile açın.
 3. **F5** ile çalıştırın.
 
