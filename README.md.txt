@@ -12,7 +12,7 @@ Windows Forms ile geliştirilmiş Flappy Bird benzeri masaüstü oyunu. Nesne Ta
 
 ## Kurulum ve Çalıştırma
 1. Depoyu klonlayın: `git clone https://github.com/[efekaandurmaz]/YMH219-FlappyBird.git`
-2. `.sln` dosyasını Visual Studio ile açın.
+2. `.slnx` dosyasını Visual Studio ile açın.
 3. **F5** ile çalıştırın.
 
 ## Oynanış
